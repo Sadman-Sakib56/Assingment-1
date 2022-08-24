@@ -1,4 +1,96 @@
-h1 {
+.header {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 8%;
+}
+
+#bg-sec {
     text-align: center;
-    color: blue;
+    color: rgb(235, 42, 4);
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: -2%;
+}
+
+#bg-para {
+    color: white;
+    text-align: center;
+    padding: 2px;
+    font-size: 30px;
+}
+
+body {
+    margin: 0%;
+}
+
+.link-button {
+    background-color: orangered;
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    padding: 10px 40px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 45%;
+}
+
+p {
+    color: rgb(207, 21, 21);
+    text-align: center;
+    padding: 10px;
+    margin: 5%;
+    font-size: 25px;
+}
+
+.heading-2 {
+    padding-left: 43%;
+    margin-top: 7%;
+    font-size: 40px;
+}
+
+.donate {
+
+    background-color: rgba(220, 219, 219, 0.756);
+    border-radius: 10px;
+    padding: 40px 50px;
+    width: 120px;
+    margin-left: 8%;
+}
+
+#donate-div {
+    display: flex;
+}
+
+.tk-text {
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+    color: gray;
+}
+
+#tk-200-text {
+
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+    color: rgb(228, 59, 59);
+
+}
+
+#taka200 {
+    border: 3px solid rgb(206, 44, 57);
+    background-color: rgba(176, 104, 104, 0.267);
+    border-radius: 10px;
+    padding: 40px 50px;
+    width: 120px;
+    margin-left: 10%;
+}
+
+.input-area {
+    color: gray;
+    text-align: center;
+    margin-top: 5%;
+    font-weight: 300;
 }

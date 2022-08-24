@@ -104,7 +104,7 @@ body {
     margin-top: 10%;
 }
 
-#donate-plan {
+.donate-plan {
     color: rgb(76, 70, 70);
     text-align: center;
     padding: 10px;
@@ -164,4 +164,45 @@ body {
     display: flex;
     margin: 5%;
     padding-left: 10%;
+}
+
+#update-text {
+    padding-left: 35%;
+    margin-top: 7%;
+    font-size: 60px;
+    color: rgb(28, 28, 209);
+}
+
+.form-action {
+    background-color: limegreen;
+    margin-left: 20%;
+    height: 220px;
+    width: 1000px;
+
+}
+
+.email {
+    background-color: bisque;
+    padding: 5%;
+    margin: 5% 20%;
+
+
+}
+
+.email-bg {
+    background-color: rgb(132, 89, 172);
+    border-radius: 25px;
+    color: white;
+    padding: 5%;
+
+    margin: 3% 3% 3% 3%;
+}
+
+footer {
+    background-color: rgb(48, 45, 63);
+    height: 150px;
+    color: white;
+    width: 1513px;
+    text-align: center;
+    padding-top: 5%;
 }

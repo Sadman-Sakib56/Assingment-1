@@ -36,7 +36,7 @@ body {
     margin-left: 45%;
 }
 
-p {
+.second-para {
     color: rgb(207, 21, 21);
     text-align: center;
     padding: 10px;
@@ -93,4 +93,75 @@ p {
     text-align: center;
     margin-top: 5%;
     font-weight: 300;
+}
+
+.button-2 {
+    margin-top: 3%;
+}
+
+#donate-area {
+    text-align: center;
+    margin-top: 10%;
+}
+
+#donate-plan {
+    color: rgb(76, 70, 70);
+    text-align: center;
+    padding: 10px;
+    margin: 5%;
+    font-size: 25px;
+}
+
+#donate-text {
+    padding-left: 5%;
+    margin-top: 7%;
+    font-size: 60px;
+    color: blue;
+}
+
+#food-box {
+
+    background-color: rgb(165, 209, 209);
+    border-radius: 20px;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    padding-top: 80px;
+    margin-right: 5%;
+}
+
+.donate-plan-item {
+    font-size: 40px;
+    font-weight: 200px;
+}
+
+.donate-plan-para {
+    font-size: 20px;
+    padding: 2%;
+    color: rgba(0, 0, 0, 0.982);
+}
+
+#shelter {
+    background-color: rgb(205, 120, 110);
+    border-radius: 20px;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+#education {
+    background-color: rgb(198, 195, 103);
+    border-radius: 20px;
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    padding-top: 80px;
+    margin-left: 5%;
+}
+
+#plan-area {
+    display: flex;
+    margin: 5%;
+    padding-left: 10%;
 }

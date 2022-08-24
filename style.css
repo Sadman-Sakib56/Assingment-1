@@ -173,6 +173,38 @@ body {
     color: rgb(28, 28, 209);
 }
 
+.last-kaj {
+    display: flex;
+}
+
+.half-width {
+    width: 100%
+}
+
+.half-width-2 {
+    width: 80%;
+    ;
+}
+
+.focus-para {
+    font-size: 20px;
+    text-align: center;
+    height: 150px;
+    width: 400px;
+    margin-left: 12%;
+
+}
+
+
+.focus-heading {
+    font-size: 50px;
+    padding-left: 15%;
+}
+
+.red {
+    color: orangered;
+}
+
 .form-action {
     background-color: limegreen;
     margin-left: 20%;
